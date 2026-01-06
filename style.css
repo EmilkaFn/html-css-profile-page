@@ -1,10 +1,10 @@
 body {
   text-align: center;
-  background: url("http://dash.ga.co/assets/anna-bg.png");
+  background: url("https://raw.githubusercontent.com/EmilkaFn/html-css-profile-page/main/assets/London-background.jpg");
   background-size: cover;
   background-position: center;
   color: white;
-  font-family: helvetica;
+  font-family: helvetica, arial, sans-serif;
 }
 p {
   font-size: 22px;
