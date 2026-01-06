@@ -3,21 +3,39 @@ body {
   background: url("assets/London-background.jpg");
   background-size: cover;
   background-position: center;
+  background-repeat: no-repeat;
   color: white;
   font-family: helvetica, arial, sans-serif;
 }
 
+img {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-top: 40px;
+}
+
 p {
   font-size: 22px;
+  font-weight: bold;
+  text-shadow: 0 2px 10px rgba(0,0,0,0.8);
 }
 
 input {
   border: 0;
-  padding: 10px;
+  padding: 10px 16px;
   font-size: 18px;
+}
+
+input[type="email"], input[type="text"] {
+  width: 280px;
 }
 
 input[type="submit"] {
   background: blue;
   color: white;
+  border-radius: 8px;
+  font-weight: bold;
+  margin-top: 10px;
 }
