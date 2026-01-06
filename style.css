@@ -4,6 +4,7 @@ html, body {
 }
 
 body {
+  min-height: 100vh;
   text-align: center;
   background: url("assets/London-background.jpg");
   background-size: cover;
