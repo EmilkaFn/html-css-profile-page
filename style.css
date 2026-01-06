@@ -1,19 +1,22 @@
 body {
   text-align: center;
-  background: url("https://raw.githubusercontent.com/EmilkaFn/html-css-profile-page/main/assets/London-background.jpg");
+  background: url("assets/London-background.jpg");
   background-size: cover;
   background-position: center;
   color: white;
   font-family: helvetica, arial, sans-serif;
 }
+
 p {
   font-size: 22px;
 }
+
 input {
   border: 0;
   padding: 10px;
   font-size: 18px;
 }
+
 input[type="submit"] {
   background: blue;
   color: white;
