@@ -2,10 +2,11 @@
 
 Built during Codebar Web Foundations (Session 1/4).
 
-Live site: https://EmilkaFn.github.io/html-css-profile-page/
+**Live site:** [View page](https://EmilkaFn.github.io/html-css-profile-page/)
+<br><br>
 
 ## Overview
-A simple, responsive profile page built with HTML and CSS
+A simple, responsive profile page built with HTML and CSS.
 
 ## Features
 - Full-screen background image
